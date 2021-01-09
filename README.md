@@ -1,4 +1,4 @@
-# burmese_calculator
+## Burmese Digit Calculator
 
 A new Flutter project.
 
